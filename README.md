@@ -1,4 +1,4 @@
-LWJGL 3.3.3 modified for PojavLauncher Android and iOS.
+LWJGL 3.3.3 modified for PojavLauncher Android and iOS./
 This branch also integrates [lwjglx](https://github.com/grum/lwjglx), allowing Minecraft 1.12.2 and older to run on this LWJGL version.
 
 ![Build lwjgl3](https://github.com/PojavLauncherTeam/lwjgl3/workflows/Build%20lwjgl3/badge.svg)
